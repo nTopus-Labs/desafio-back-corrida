@@ -1,0 +1,15 @@
+{
+  "name": "back-corrida",
+  "version": "1.0.0",
+  "description": "Servidor de corrida de animais",
+  "main": "serv.mjs",
+  "scripts": {
+    "start": "node serv.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nTopus",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^4.1.2"
+  }
+}
