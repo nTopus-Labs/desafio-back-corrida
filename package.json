@@ -1,6 +1,6 @@
 {
   "name": "back-corrida",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Servidor de corrida de animais",
   "main": "serv.mjs",
   "scripts": {
@@ -10,6 +10,6 @@
   "author": "nTopus",
   "license": "MIT",
   "dependencies": {
-    "socket.io": "^4.1.2"
+    "ws": "^7.4.5"
   }
 }
